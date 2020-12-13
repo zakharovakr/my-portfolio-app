@@ -14,7 +14,8 @@ export default function About() {
       <h2>About Me</h2>
       <div className="about">
         <div data-aos='zoom-in-up' className="">
-          <p>I am a technically curious and driven entry-level engineer. Seeking a collaborative team and to contribute to a meaningful / challenging product. Looking to apply existing skills and learn new ones in a fast-paced, high-learning environment.</p>
+            <p>Hi, I'm Kristina.</p>
+          <p>I am a technically curious and driven entry-level engineer. Wiling to contribute to a meaningful/challenging product. Looking to apply existing skills and learn new ones in a fast-paced, high-learning collaborative environment.</p>
           <p>Multilingual: speak English, Russian, Spanish, Portuguese and German fluently.</p>
         </div>
       </div>
