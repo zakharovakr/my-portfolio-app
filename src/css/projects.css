@@ -114,7 +114,7 @@
   }
   
   .parallax{
-    background-image: url("../images/computer.jpg");
+    background-image: url("../images/heroback.png");
     height: 200px;
     background-attachment: fixed;
     background-position: center;
