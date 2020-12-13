@@ -1,0 +1,12 @@
+footer{
+    height:60px;
+    line-height: 60px;
+    background-color: black;
+    overflow: hidden;
+  }
+  
+  footer p{
+    color:white;
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+  }
