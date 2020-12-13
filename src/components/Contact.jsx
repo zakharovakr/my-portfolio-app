@@ -29,7 +29,7 @@ export default function Footer() {
             </a>
           </div>
           <div className="channel">
-            <a target='_blank' href="https://www.linkedin.com/in/kristina-zakharova-7b58065a/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAyT7PkBUnWvrRksozog8u6U6A3xmcWv9ho,1607881739967)/">
+            <a target='_blank' href="https://www.linkedin.com/in/kristina-zakharova-7b58065a/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAyT7PkBUnWvrRksozog8u6U6A3xmcWv9ho,1607887068101)/">
               <img src={Resume} alt="CV" />
               <h4>CV</h4>
             </a>
