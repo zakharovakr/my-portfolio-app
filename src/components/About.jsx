@@ -7,5 +7,6 @@ export default function About() {
       <h2>About Me</h2>
       <div className="about">
     </div>
+    </div>
   )
 }
