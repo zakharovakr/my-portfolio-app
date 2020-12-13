@@ -1,0 +1,55 @@
+#contact{
+    padding-bottom: 2em;
+    overflow: hidden;
+    padding-top: 2em;
+    background-color: #C8E0EB;
+  }
+  
+  #contact h2{
+    margin:0;
+    padding:1em;
+    font-size: 3em;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    text-decoration: underline;
+  }
+  
+  .contact img{
+    width:30px;
+    height:30px;
+    margin: auto 1em
+  }
+  
+  .contact {
+    text-align: left;
+    border-left: 1px solid black;
+    margin-top: .8em;
+  }
+  
+  .channel h4{
+    margin: auto 0;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: 600;
+  }
+  
+  .channel a{
+    text-decoration:none;
+    color:black;
+    text-align: left;
+    height:40px;
+    line-height: 40px;
+    display:flex;
+    justify-content: left;
+  }
+  
+  @media (max-width:800px){
+    form{
+      width: 60%
+    }
+  }
+  
+  @media (max-width:800px){
+    form{
+      width: 80%
+    }
+  }

@@ -1,5 +1,5 @@
 import React from 'react';
-
+import '../css/contact.css';
 import Github from '../images/github.png';
 import Email from '../images/email.png';
 import Linkedin from '../images/linkedin.png';
