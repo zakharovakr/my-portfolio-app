@@ -4,6 +4,8 @@ import Yogablog from '../images/yogablog.png';
 import Superhero from '../images/superhero.png';
 import Flooring from '../images/flooring.jpg';
 import Vending from '../images/vending.jpg';
+import Coffeeshop from '../images/Coffeeshop.png';
+
 
 export default function Projects() {
   return (
@@ -44,6 +46,16 @@ export default function Projects() {
           <h3>Vending Machine</h3>
           <hr></hr>
           <p>A Java console app that simulates a vending machine</p>
+        </a>
+        <h3 data-aos='fade-in' className='mobile-title'>Vending Machine</h3>
+
+        <a data-aos='fade-right' className='project' target='_blank' href="https://zakharovakr.github.io/static-landing/restaurantJS/index.html">
+          <div className="overlay">
+          </div>
+          <img src={Coffeeshop} alt="Calarca Coffee Shop" />
+          <h3>Calarca Coffee Shop</h3>
+          <hr></hr>
+          <p>A simple HTML, CSS and JS website for a made up coffee shop</p>
         </a>
         <h3 data-aos='fade-in' className='mobile-title'>Vending Machine</h3>
       </div>
