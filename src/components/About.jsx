@@ -1,11 +1,15 @@
 import React from 'react';
 import '../css/about.css';
-import Css from '../images/css.png';
-import Java from '../images/java.png';
-import Html from '../images/html.png';
-import Javascript from '../images/javascript.png';
+import Css from '../images/css3-original-wordmark.svg';
+import Java from '../images/java-plain-wordmark.svg';
+import Html from '../images/html5-original-wordmark.svg';
+import Javascript from '../images/javascript-original.svg';
+import Bootstrap from '../images/bootstrap-plain-wordmark.svg';
 import Reacticon from '../images/react.png';
-import MySQL from '../images/mysql.png';
+import MySQL from '../images/mysql-original-wordmark.svg';
+import Git from '../images/git-original-wordmark.svg';
+import Github from '../images/github-original-wordmark.svg';
+import Jquery from '../images/jquery-original-wordmark.svg';
 
 
 export default function About() {
@@ -28,6 +32,10 @@ export default function About() {
           <img data-aos='zoom-out-up' src={Reacticon} alt="react" />
           <img data-aos='zoom-out-up' src={Html} alt="html" />
           <img data-aos='zoom-out-up' src={Css} alt="css" />
+          <img data-aos='zoom-out-up' src={Bootstrap} alt="bootstrap" />
+          <img data-aos='zoom-out-up' src={Jquery} alt="jQuery" />
+          <img data-aos='zoom-out-up' src={Git} alt="git" />
+          <img data-aos='zoom-out-up' src={Github} alt="github" />
         </div>
       </div>
       <div className="parallax"></div>
