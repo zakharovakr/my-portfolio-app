@@ -20,6 +20,9 @@ export default function About() {
         <div data-aos='zoom-in-up' className="">
             <p>Hi, I'm Kristina.</p>
           <p>I am a technically curious and driven entry-level engineer. Wiling to contribute to a meaningful/challenging product. Looking to apply existing skills and learn new ones in a fast-paced, high-learning collaborative environment.</p>
+          <p>I was doing a lot of different things prior to embarquing on my journey to become a professional developer. I worked as a tour gouide, an English teacher, a journalist, an online events manager...You name it.
+
+I have always loved languages, however. And one day I realized that programming languages are languages, too!</p>
           <p>Multilingual: speak English, Russian, Spanish, Portuguese and German fluently.</p>
         </div>
       </div>
