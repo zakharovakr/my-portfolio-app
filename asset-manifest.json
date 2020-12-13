@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4e2f9df.chunk.css",
+    "main.js": "/static/js/main.da96e112.chunk.js",
+    "main.js.map": "/static/js/main.da96e112.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.30dcd50f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.30dcd50f.js.map",
+    "static/css/2.ec02d681.chunk.css": "/static/css/2.ec02d681.chunk.css",
+    "static/js/2.f1b1b675.chunk.js": "/static/js/2.f1b1b675.chunk.js",
+    "static/js/2.f1b1b675.chunk.js.map": "/static/js/2.f1b1b675.chunk.js.map",
+    "static/js/3.cf8cedc5.chunk.js": "/static/js/3.cf8cedc5.chunk.js",
+    "static/js/3.cf8cedc5.chunk.js.map": "/static/js/3.cf8cedc5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.e4e2f9df.chunk.css.map": "/static/css/main.e4e2f9df.chunk.css.map",
+    "static/js/2.f1b1b675.chunk.js.LICENSE.txt": "/static/js/2.f1b1b675.chunk.js.LICENSE.txt",
+    "static/media/Coffeeshop.4f04f5ab.png": "/static/media/Coffeeshop.4f04f5ab.png",
+    "static/media/projects.css": "/static/media/computer.93cd49c8.jpg",
+    "static/media/css.9d56f943.png": "/static/media/css.9d56f943.png",
+    "static/media/flooring.1fdb5b82.jpg": "/static/media/flooring.1fdb5b82.jpg",
+    "static/media/hero.css": "/static/media/heroback.f1b7dc1e.png",
+    "static/media/java.84e21b5f.png": "/static/media/java.84e21b5f.png",
+    "static/media/javascript.6e032a96.png": "/static/media/javascript.6e032a96.png",
+    "static/media/me.ae65e4cf.jpeg": "/static/media/me.ae65e4cf.jpeg",
+    "static/media/mysql.67646295.png": "/static/media/mysql.67646295.png",
+    "static/media/react.c2861c4d.png": "/static/media/react.c2861c4d.png",
+    "static/media/resume.913c0d32.png": "/static/media/resume.913c0d32.png",
+    "static/media/superhero.d5910b96.png": "/static/media/superhero.d5910b96.png",
+    "static/media/vending.e5c64447.jpg": "/static/media/vending.e5c64447.jpg",
+    "static/media/yogablog.76d5177a.png": "/static/media/yogablog.76d5177a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30dcd50f.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.f1b1b675.chunk.js",
+    "static/css/main.e4e2f9df.chunk.css",
+    "static/js/main.da96e112.chunk.js"
+  ]
+}
