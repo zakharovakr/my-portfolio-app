@@ -1,5 +1,5 @@
 import React from 'react';
-
+import '../css/projects.css';
 import Yogablog from '../images/yogablog.png';
 import Superhero from '../images/superhero.png';
 import Flooring from '../images/flooring.jpg';

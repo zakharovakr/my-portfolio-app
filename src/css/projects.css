@@ -1,0 +1,154 @@
+#projects{
+    /*background-color: #C8E0EB;*/
+    overflow: hidden;
+    padding-top: 2em;
+  }
+  
+  #projects h2{
+    margin:0;
+    padding:1em;
+    font-size: 3em;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    text-decoration: underline;
+  }
+  
+  .projects{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 2em;
+  }
+  
+  .project{
+    width:45%;
+    height:300px;
+    margin: 1em 0;
+    position:relative;
+    overflow:hidden;
+  }
+  
+  .project img{
+    width:100%;
+    height:100%;
+    position:absolute;
+    top:0;
+    left:0;
+    object-fit: cover;
+  }
+  
+  .project .overlay{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    z-index: 2;
+    background-color: rgba(0,0,0,0.7);
+    opacity:0;
+  }
+  
+  .project h3{
+    position:absolute;
+    top:70%;
+    text-decoration: none;
+    color:white;
+    left:50%;
+    font-size: 2em;
+    z-index: 3;
+    width:100%;
+    transform: translateX(-50%);
+    color:transparent;
+    font-family: 'Merriweather Sans', sans-serif;
+  }
+  
+  .project hr{
+    position:absolute;
+    text-decoration: none;
+    background-color:#697874;
+    z-index: 3;
+    top:42%;
+    left:0;
+    border:none;
+    height:3px;
+    width:0;
+  }
+  
+  .project p{
+    position:absolute;
+    text-decoration: none;
+    color:white;
+    z-index: 3;
+    width:70%;
+    left:150%;
+    top:60%;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .project:hover .overlay{
+    opacity:1;
+    transition:.2s
+  }
+  
+  .project:hover hr{
+    width:100%;
+    transition: .8s
+  }
+  
+  .project:hover h3{
+    top:20%;
+    opacity:1;
+    color:white;
+    transition: 1.2s
+  }
+  
+  .project:hover p{
+    left:50%;
+    width:70%;
+    transform: translateX(-50%);
+    transition:1.2s
+  }
+  
+  .mobile-title{
+    display:none
+  }
+  
+  .parallax{
+    background-image: url("../images/computer.jpg");
+    height: 200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+  }
+  
+  @media (max-width:900px){
+    .project{
+      width:80%;
+      margin-bottom: 3em;
+    }
+  
+    .project{
+      margin:1em auto .8em auto
+    }
+  
+    .mobile-title{
+      display:block;
+      width:100%;
+      margin:0 auto 1em auto;
+      padding:0;
+      font-size: 1.5em;
+      font-family: 'Merriweather Sans', sans-serif;
+    }
+    
+    .parallax:before{
+      position:fixed;
+      width:100%;
+      height:100%;
+      left:0;
+      top:0;
+      background-image:url("../images/computer.jpg");
+      }
+  }
