@@ -1,5 +1,5 @@
 import React from 'react';
-
+import '../css/hero.css';
 import Me from '../images/me.jpeg';
 
 export default function Hero() {
