@@ -18,7 +18,7 @@ export default function About() {
       <h2>About Me</h2>
       <div className="about">
         <div data-aos='zoom-in-up' className="">
-            <p>Hi, I'm Kristina.</p>
+            <h3>Hi, I'm Kristina.</h3>
           <p>I am a technically curious and driven entry-level engineer. Wiling to contribute to a meaningful/challenging product. Looking to apply existing skills and learn new ones in a fast-paced, high-learning collaborative environment.</p>
           <p>I was doing a lot of different things prior to embarquing on my journey to become a professional developer. I worked as a tour gouide, an English teacher, a journalist, an online events manager...You name it.
 
