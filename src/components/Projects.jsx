@@ -49,7 +49,7 @@ export default function Projects() {
         </a>
         <h3 data-aos='fade-in' className='mobile-title'>Vending Machine</h3>
 
-        <a data-aos='fade-right' className='project' target='_blank' href="https://zakharovakr.github.io/static-landing/restaurantJS/index.html">
+        <a data-aos='fade-right' className='project' target='_blank' href="https://zakharovakr.github.io/restaurantJS/index.html">
           <div className="overlay">
           </div>
           <img src={Coffeeshop} alt="Calarca Coffee Shop" />
@@ -57,7 +57,7 @@ export default function Projects() {
           <hr></hr>
           <p>A simple HTML, CSS and JS website for a made up coffee shop</p>
         </a>
-        <h3 data-aos='fade-in' className='mobile-title'>Vending Machine</h3>
+        <h3 data-aos='fade-in' className='mobile-title'>Calarca Coffee Shop</h3>
       </div>
       <div className="parallax"></div>
     </div >
