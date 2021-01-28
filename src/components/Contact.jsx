@@ -6,9 +6,9 @@ import Linkedin from '../images/linkedin.png';
 import Resume from '../images/resume.png';
 
 
-export default function Footer() {
+export default function Contact() {
   return (
-    <div>
+    <div id="contact">
         <div data-aos='fade-down' className="contact">
           <div className="channel">
             <a target='_blank' href="https://github.com/zakharovakr">
